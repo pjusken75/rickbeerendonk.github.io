@@ -67,14 +67,12 @@ input {
 	
 #messageArea {
 	background-color: lightblue;
-	width: 600px;
 }
 	
 #resultArea {
 	border: 1px solid blue;
 	background-color: yellow;
-	padding: 0px 20px 20px 20px;
-	width: 400px;
+	padding: 0px 10px 10px 10px;
 	float: right;
 }
 	
